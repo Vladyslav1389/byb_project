@@ -18,7 +18,9 @@ Run the "task-manager.py" file in the Visual Studio Code.
 ### Options that you can do:
     
    1. Login
+
    ![First loggin](https://github.com/Vladyslav1389/byb_project/blob/master/First%20Login.png)
+  
   Note: For the first time, the default credentials you should use are: Username-admin, Password-password.
 
    2. Adding a new user
@@ -32,17 +34,25 @@ Run the "task-manager.py" file in the Visual Studio Code.
 
    5. View the tasks that are assigned to the current user
 
-   * Here you can either edit the task or mark it as completed.
+   - Here you can either edit the task or mark it as completed.
 
-   a. Marking a task as completed.     
+   * Marking a task as completed.     
    ![Marking task as complete](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Mark%20as%20completed.png)
    
-   b. Editing the username of the person who is assigned to this task or due date.
-   ![Changing the username](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Editing%20the%20name%20of%20the%20user%20the%20task%20is%20assigned%20to.png)
+   * Editing the person assigned to this task or due date.
+   ![Changing the pearson](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Editing%20the%20name%20of%20the%20user%20the%20task%20is%20assigned%20to.png)
 
    ![Changing due date](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Editing%20the%20due%20date%20of%20the%20task.png)
 
-   6. 
+   6. Generating a report that will be saved into two ".txt" files
+   ![Generating a report](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Generating%20the%20report.png)
+
+   7. Displaying a report to the terminal.
+   ![Displaying a report](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Displaying%20the%20report.png)
+***
+## Section for credits
+
+The whole project was written by [Vladyslav Shcherbak GitHub link](https://github.com/Vladyslav1389)
 
    
 
