@@ -15,7 +15,7 @@ Run the "task-manager.py" file in the Visual Studio Code.
 
 Run the "task-manager.py" file in the Visual Studio Code.
 ***
-Options that you can do:
+### Options that you can do:
     
    1. Login
    ![First loggin](https://github.com/Vladyslav1389/byb_project/blob/master/First%20Login.png)
@@ -27,11 +27,24 @@ Options that you can do:
    3. Adding a task
    ![Adding a new task](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Adding%20a%20task.png)
 
-   4. View all tasks
+   4. Viewing all tasks
    ![View all tasks](https://github.com/Vladyslav1389/byb_project/blob/master/Images/View%20all%20tasks.png)
 
    5. View the tasks that are assigned to the current user
-    Here you can either edit the task or mark it as completed
+
+   * Here you can either edit the task or mark it as completed.
+
+   a. Marking a task as completed.     
+   ![Marking task as complete](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Mark%20as%20completed.png)
+   
+   b. Editing the username of the person who is assigned to this task or due date.
+   ![Changing the username](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Editing%20the%20name%20of%20the%20user%20the%20task%20is%20assigned%20to.png)
+
+   ![Changing due date](https://github.com/Vladyslav1389/byb_project/blob/master/Images/Editing%20the%20due%20date%20of%20the%20task.png)
+
+   6. 
+
+   
 
       
 
